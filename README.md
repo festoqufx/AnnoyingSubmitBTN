@@ -12,11 +12,10 @@ You won't be able to submit the form until you enter correct length of password.
 
 ## Author
 
-👤 **Zain Sadaqat**
+👤 **RavenoM**
 
-- GitHub: [ZainSadaqat](https://github.com/zainsadaqat)
-- Twitter: [ZainSadaqat](https://twitter.com/zain_sadaqat)
-- LinkedIn: [ZainSadaqat](https://linkedin.com/in/zain-sadaqat)
+- GitHub: [Raven](https://github.com/festoqufx)
+- LinkedIn: [Raven](https://www.linkedin.com/in/ferdinand-estoque-46797876/)
 
 ## 🤝 Contributing
 

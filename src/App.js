@@ -41,7 +41,7 @@ function App() {
               name="email"
               value={form.email}
               onChange={handleForm}
-              placeholder="zain.sadaqet@gmail.com"
+              placeholder="ferdinand.estoque@yahoo.com"
               tabIndex={-1}
               required
             />
